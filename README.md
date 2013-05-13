@@ -1,6 +1,8 @@
 PHP Coding Standards Fixer
 ==========================
 
+[![Build Status](https://travis-ci.org/rogeriopradoj/PHP-CS-Fixer.png)](https://travis-ci.org/rogeriopradoj/PHP-CS-Fixer)
+
 The PHP Coding Standards Fixer tool fixes *most* issues in your code when you
 want to follow the PHP coding standards as defined in the PSR-1 and PSR-2
 documents.
